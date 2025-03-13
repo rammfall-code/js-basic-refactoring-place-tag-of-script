@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "linter": "eslint src/"
+    "linter": "eslint src/",
+    "fix": "eslint --fix  src/"
   },
   "keywords": [],
   "author": "",
