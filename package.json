@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@eslint/js": "^9.25.1",
+    "@eslint/js": "^9.26.0",
     "@playwright/test": "^1.52.0",
     "@types/node": "^22.14.1",
     "eslint": "^9.25.1",
